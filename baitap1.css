@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+select {
+    background-color: #ff6b6c;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+select:focus {
+    outline: 2px solid #9ecbff;
+}
+option {
+    background-color: #ff6b5c;
+    color: white;
+}
+option {
+    background-color: ;
+}
